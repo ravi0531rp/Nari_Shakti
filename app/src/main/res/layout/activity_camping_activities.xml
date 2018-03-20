@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/new_login_gradients2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.moksh.loginandregister.CampingActivities">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        android:src="@drawable/camping" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/join_a_camp"
+        android:layout_weight="1"
+        android:text="@string/join_a_camp"
+        android:background="#84FFFF"
+        android:layout_marginBottom="10dp"
+        android:textSize="20sp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#84FFFF"
+        android:id="@+id/organize_a_camp"
+        android:textSize="20sp"
+        android:layout_marginBottom="5dp"
+        android:text="@string/organize_a_camp" />
+
+</LinearLayout>

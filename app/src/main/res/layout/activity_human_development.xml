@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.moksh.loginandregister.CampingActivities">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new_login_gradients2"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitStart"
+        android:src="@drawable/handloom" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sell_product_id"
+        android:gravity="center_horizontal"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="25dp"
+        android:text="@string/want_to_sell_a_product" />
+
+    <Button
+        android:id="@+id/btn_sell"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="25dp"
+        android:background="#84FFFF"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/yes" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="center_horizontal"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_marginBottom="25dp"
+        android:text="@string/want_to_buy_a_product" />
+
+    <Button
+        android:id="@+id/btn_buy"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:background="#84FFFF"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/yes" />
+
+</LinearLayout>
+</LinearLayout>

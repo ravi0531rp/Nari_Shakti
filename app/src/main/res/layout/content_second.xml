@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/new_login_gradients2"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.moksh.loginandregister.SecondActivity"
+    tools:showIn="@layout/app_bar_second">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear_layout_1"
+    android:padding="3dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:id="@+id/personal_id"
+        android:layout_height="125dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:background="#84FFFF"
+        android:text="Personal"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/business_id"
+        android:layout_marginLeft="5dp"
+        android:gravity="center"
+        android:layout_height="125dp"
+        android:text="Business"
+        android:background="#84FFFF"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/black" />
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear_layout_2"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:id="@+id/camping"
+                android:layout_height="125dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="#84FFFF"
+                android:text="Camps"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/hygiene"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:layout_height="125dp"
+                android:text="Hygiene"
+                android:background="#84FFFF"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear_layout_3"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:id="@+id/safety_tips_id"
+                android:layout_height="125dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="#84FFFF"
+                android:text="Safety"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:id="@+id/literacy_id"
+                android:layout_marginLeft="5dp"
+                android:gravity="center"
+                android:layout_height="125dp"
+                android:text="@string/education1"
+                android:background="#84FFFF"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear_layout_4"
+            android:padding="3dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:id="@+id/enrollment_id"
+                android:layout_height="125dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="#84FFFF"
+                android:text="@string/bhamashah_enrollment"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+
+    </LinearLayout>
+    </ScrollView>
+
+
+
+</android.support.constraint.ConstraintLayout>

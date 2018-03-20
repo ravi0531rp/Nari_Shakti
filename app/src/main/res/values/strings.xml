@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="agriculture">Agriculture Development</string>
+    <string name="health">Human Development</string>
+    <string name="education">Camping Activities</string>
+    <string name="personal">Personal Development</string>
+    <string name="environmental">Environmental Development</string>
+    <string name="more">More</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_personal_development">PersonalDevelopment</string>
+    <string name="user_name">User name</string>
+    <string name="gmail">Gmail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="moralvalues">MoralValues</string>
+    <string name="moral_values">Moral values</string>
+    <string name="info_of_moral_values">A moral value is a universally accepted ethical principle that governs the day to day living of life</string>
+    <string name="self_hygienic_behaviour">Hygienic Behaviour</string>
+    <string name="info_of_hygenic_behaviour">Hygenic behaviour is one of the most important thing.Click here to know about them</string>
+    <string name="info_of_women_respect">Respect is one of the greatest expressions of love</string>
+    <string name="respect_for_women">Respect For Women</string>
+    <string name="dignity_of_labour">Dignity Of Labour</string>
+    <string name="info_of_dignity_of_labour">Every work is respectable,dignified and important.
+                               There is nothing wrong in the nature of the work; what is important is how one look at it and does it    </string>
+    <string name="reducing_risk_behaviour">Reducing Risk Behaviour</string>
+    <string name="info_of_risk_behaviour">*Alcoholism\n*Smoking\n*Substance abuse</string>
+    <string name="join_a_camp">Join a Camp</string>
+    <string name="organize_a_camp">Organize a Camp</string>
+    <string name="title_activity_moral_values">MoralValues</string>
+    <string name="acceptance">Acceptance</string>
+    <string name="info_of_acceptance">Having an objective attitude toward other’s ideas and practices that differ from your own</string>
+    <string name="info_of_compassion">Understanding the suffering of others or self and wanting to do something about it</string>
+    <string name="info_of_courage">Willingness to do difficult things</string>
+    <string name="info_of_equality">Believing everyone deserves equal rights and to be treated with respect</string>
+    <string name="info_of_fairness">Acting in a just way, sharing appropriately</string>
+    <string name="info_of_generosity">Willingness to give resources, help or time to others</string>
+    <string name="info_of_honesty">Being truthful and sincere</string>
+    <string name="info_of_integrity">Sticking to your moral and ethical principles and values</string>
+    <string name="info_of_kindness">Being considerate and treating others well</string>
+    <string name="info_of_preseverance">Persisting in a course of action, belief or purpose</string>
+    <string name="info_of_politeness">Using good manners, acting in socially acceptable ways</string>
+    <string name="info_of_respect">Showing consideration for the worth of someone or something</string>
+    <string name="info_of_responsibility">Being reliable in your obligations</string>
+    <string name="info_of_selfcontrol">Staying in control of your words and behavior</string>
+    <string name="compassion">Compassion</string>
+    <string name="courage">Courage</string>
+    <string name="equality">Equality</string>
+    <string name="fairness">Fairness</string>
+    <string name="generosity">Generosity</string>
+    <string name="integrity">Integrity</string>
+    <string name="kindnesss">Kindnesss</string>
+    <string name="persaverance">Persaverance</string>
+    <string name="politeness">Politeness</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="personal_development">Personal Development</string>
+    <string name="campingactivities">CampingActivities</string>
+    <string name="human_develpopment">Human Develpopment</string>
+    <string name="agriculture_development">Agriculture Development</string>
+    <string name="environment_development">Environment Development</string>
+    <string name="up_coming_activities">Up Coming activities</string>
+    <string name="profile">Profile</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_moralvalues">Moralvalues</string>
+    <string name="bhamashah_yogana">Bhamashah Yogana</string>
+    <string name="women_weaver">Women Weaver</string>
+    <string name="women_health_and_hygiene">Women Health and Hygiene</string>
+    <string name="share1">Share</string>
+    <string name="business">Business</string>
+    <string name="education1">Education</string>
+    <string name="bhamashah_enrollment">Bhamashah Enrollment</string>
+    <string name="sell">SELL</string>
+    <string name="yes">Yes !</string>
+    <string name="want_to_buy_a_product">Want to buy a Product?</string>
+    <string name="want_to_sell_a_product">Want to sell a Product?</string>
+    <string name="play">Play</string>
+    <string name="citizen_registration">Citizen Registration</string>
+    <string name="citizen_enrollement">Citizen enrollement</string>
+    <string name="citizen_forgot_registration">Citizen Forgot registration</string>
+    <string name="citizen_doc_upload">Citizen Doc Upload</string>
+    <string name="get_card_status">Get card status</string>
+    <string name="pdf_enroll">pdf Enroll</string>
+    <string name="get_citizen_receipt">Get Citizen Receipt</string>
+    <string name="homepage">Home</string>
+    <string name="personaldevelopment">Personal Development</string>
+    <string name="campingactivity">Camps</string>
+    <string name="localbusiness">Local Business</string>
+    <string name="womensafety">Women Safety</string>
+    <string name="healthandhygiene">Health and Hygiene</string>
+    <string name="sellaproduct">Sell a Product</string>
+    <string name="buyaproduct">Buy a Product</string>
+    <string name="resetpassword">Reset Password</string>
+    <string name="userprofile">User Profile</string>
+    <string name="updateprofile">Update Profile</string>
+    <string name="changepassword">Change Password</string>
+    <string name="loginpage">Login Page</string>
+    <string name="registration">Registration</string>
+    <string name="choose_file">ChOOSE FILE</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="name">Name</string>
+    <string name="nari_shakti">Nari Shakti</string>
+    <string name="enter_product_price">Enter Product price</string>
+    <string name="upload_product_image">Upload Product Image</string>
+
+
+</resources>

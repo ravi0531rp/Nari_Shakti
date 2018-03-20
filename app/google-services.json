@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195463602415",
+    "firebase_url": "https://loginandregister-b0312.firebaseio.com",
+    "project_id": "loginandregister-b0312",
+    "storage_bucket": "loginandregister-b0312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195463602415:android:653594fd330f87ca",
+        "android_client_info": {
+          "package_name": "com.example.moksh.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195463602415-mkroo64rb9oqdvr23stm9kacgiocncvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moksh.loginandregister",
+            "certificate_hash": "fb822eddd75bdff54bdd7a2b03d914acdbbca821"
+          }
+        },
+        {
+          "client_id": "195463602415-pon8lrq8tent03diqtd12ionsiqplo1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSeeMMButZaYndg9zBd7cbUUCKes5eaPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195463602415-pon8lrq8tent03diqtd12ionsiqplo1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

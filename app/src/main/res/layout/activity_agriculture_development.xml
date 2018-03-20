@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/new_login_gradients2"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.moksh.loginandregister.AgricultureDevelopment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ws" />
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:id="@+id/youtube_player_view"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/button_play"
+        android:layout_width="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:background="#84FFFF"
+        android:text="@string/play"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
+

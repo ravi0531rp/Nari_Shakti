@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.moksh.loginandregister">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/nari_shakti"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/loginpage" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:label="@string/registration" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/homepage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PersonalDevelopment"
+            android:label="@string/personaldevelopment" />
+        <activity
+            android:name=".CampingActivities"
+            android:label="@string/campingactivity" />
+        <activity
+            android:name=".HumanDevelopment"
+            android:label="@string/localbusiness" />
+        <activity
+            android:name=".AgricultureDevelopment"
+            android:label="@string/womensafety" />
+        <activity
+            android:name=".EnvironmentalDevelopment"
+            android:label="@string/healthandhygiene" />
+        <activity
+            android:name=".PasswordActivity"
+            android:label="@string/resetpassword" />
+        <activity
+            android:name="com.example.moksh.ProfileActivity"
+            android:label="@string/userprofile" />
+        <activity
+            android:name="com.example.moksh.UpdateProfile"
+            android:label="@string/updateprofile" />
+        <activity
+            android:name="com.example.moksh.UpdatePassword"
+            android:label="@string/changepassword" />
+        <activity
+            android:name="com.example.moksh.Education"
+            android:label="@string/education1" />
+        <activity
+            android:name="com.example.moksh.SellActivity"
+            android:label="@string/sellaproduct" />
+        <activity
+            android:name="com.example.moksh.BuyActivity"
+            android:label="@string/buyaproduct" />
+        <activity
+            android:name=".BhamashahYojana"
+            android:label="@string/bhamashah_enrollment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.moksh.JoinCamp" />
+        <activity android:name="com.example.moksh.OrganizeCamp" />
+        <activity android:name="com.example.moksh.ImagesActivity"></activity>
+    </application>
+
+</manifest>
